@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png)
+![logo](https://img.freepik.com/premium-photo/laptop-cup-coffee-are-table-with-blue-background_337384-159390.jpg?w=826)
 <h1 align="center">Hi 👋, I'm Ume Hania</h1>
 <h3 align="center">A passionate Software Engineer✌❤</h3>
 

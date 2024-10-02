@@ -1,7 +1,8 @@
+![logo](https://i.pinimg.com/originals/50/70/f9/5070f9e7af565d1d16a3edfd7f53cd1e.png)
 <h1 align="center">Hi 👋, I'm Ume Hania</h1>
 <h3 align="center">A passionate Software Engineer✌❤</h3>
 
-<img align="right" alt="coding" width="300" border-radius="20" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
+<img align="right" alt="coding" width="300"  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umehania07&label=Profile%20views&color=0e75b6&style=flat" alt="umehania07" /> </p>
 

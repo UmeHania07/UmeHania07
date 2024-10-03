@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS and React Native**
 
-- 💬 Ask me about **HTML CSS Javascript Bootstrap ReactJS Typescript Axios Redux MUI ReactBootstrap Firebase**
+- 💬 Ask me about **HTML CSS Javascript Bootstrap ReactJS Typescript Axios Redux MUI ReactBootstrap Firebase Firebase Hosting**
 
 - 📫 How to reach me **umehania.shahid@gmail.com**
 

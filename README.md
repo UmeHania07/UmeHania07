@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umehania07&label=Profile%20views&color=0e75b6&style=flat" alt="umehania07" /> </p>
 
-- 🌱 I’m currently learning **NextJS and React Native**
+- 🌱 I’m currently learning **New Features**
 
-- 💬 Ask me about **HTML CSS Javascript Bootstrap ReactJS Typescript Axios Redux MUI ReactBootstrap Firebase Firebase Hosting**
+- 💬 Ask me about **HTML CSS Javascript Bootstrap ReactJS Typescript NextJS and React Native NodeJS Axios Redux MUI ReactBootstrap Firebase Firebase Hosting **
 
 - 📫 How to reach me **umehania.shahid@gmail.com**
 

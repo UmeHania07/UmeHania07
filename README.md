@@ -24,6 +24,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umehania07&show_icons=true&locale=en&layout=compact" alt="umehania07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umehania07&show_icons=true&locale=en" alt="umehania07" /></p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umehania07)](https://github.com/umehania07/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umehania07&" alt="umehania07" /></p>

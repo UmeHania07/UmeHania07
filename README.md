@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML CSS Javascript Bootstrap ReactJS Typescript NextJS and React Native NodeJS Axios Redux MUI ReactBootstrap Firebase Firebase Hosting **
 
-- 📫 How to reach me **umehania.shahidofficial@gmail.com**
+- 📫 How to reach me **umehania.shahid@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
 
